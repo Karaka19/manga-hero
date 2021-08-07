@@ -1,18 +1,20 @@
 body{
 	margin: 0;
-
 }
 
-}
 header{
 	background-color: black;
 	text-align: center;
+	padding-top: 17px;
+}
+
+header img{
+	border-radius: 360px;
+	border: 8px solid darkred;
 }
 
 header h1{
 	color: whitesmoke;
 }
 
-header img{
-	border-radius: 10px;
-}
+
