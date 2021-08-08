@@ -1,6 +1,7 @@
 body{
 	margin: 0;
-	font-family: century gothic;
+	font-size: 20px;
+	line-height: 27px;
 }
 
 header{
@@ -10,6 +11,7 @@ header{
 	padding-bottom: 50px;
 }
 
+/* !!! change border color to #e70c19 !! */
 header img{
 	border-radius: 360px;
 	border: 10px solid darkred;
@@ -20,4 +22,45 @@ header h1{
 
 }
 
+h1{
+	font-size: 60px;
+}
+/*#e70c19*/
+h2{
+	font-size: 45px;
+	color: darkred;
+}
 
+a{
+	color: darkred;
+}
+
+a:hover{
+	background-color: darkred;
+	color: whitesmoke;
+}
+
+h1, h2{
+	font-family: 'Amatic SC', cursive;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px 20px;
+}
+
+p{
+	padding-left: 20px;
+}
+
+footer{
+	background-color: darkred;
+	margin: 0;
+	padding: 50px;
+}
+
+footer a:hover{
+	background-color: transparent;
+	color: whitesmoke;
+}
