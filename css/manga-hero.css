@@ -1,20 +1,23 @@
 body{
 	margin: 0;
+	font-family: century gothic;
 }
 
 header{
 	background-color: black;
 	text-align: center;
 	padding-top: 17px;
+	padding-bottom: 50px;
 }
 
 header img{
 	border-radius: 360px;
-	border: 8px solid darkred;
+	border: 10px solid darkred;
 }
 
 header h1{
 	color: whitesmoke;
+
 }
 
 
